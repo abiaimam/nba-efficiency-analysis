@@ -12,9 +12,12 @@ https://waynestateprod-my.sharepoint.com/:x:/g/personal/ho9797_wayne_edu/EUl8ISc
 - Visualized the top 20 players by efficiency and compared efficiency to points scored.
 
 ## Key Findings
+- The top 3 players who scored highest efficiency are Joel Embiid, Nikola Jokic, and Luka Doncic respectively.
+- Nikola Jokic scored 2085 points during the season, while Anthony Edwards scored about the same, 2049. However, Edwards' efficiency score was significantly lower, with a score of 23.6 as compared to Jokics', 34.5. This is due to Jokic having many more rebounds and asissts, and a lot more efficiency in scoring, showing beyond points scored that determine efficiency.
 - There is a strong positive correlation (0.87) between efficiency and points scored, indicating players who score more tend to have higher efficiency ratings. This can be confirmed because players who scoree more points contribute mor heavily, impacting the effiency score.
 
 ## How to View the Project
+- First, clone the repository.
 - Open the NBAproject.ipynb in Jupyter Notebook to see the full code and interactive plots.
 - The dataset is available here: https://waynestateprod-my.sharepoint.com/:x:/r/personal/ho9797_wayne_edu/Documents/nba_efficiency.csv?d=w27217c49ac0d49d69a88f19c1bc9f2ec&csf=1&web=1&e=ZzxNqj
 
