@@ -3,15 +3,8 @@ Analyzing NBA player efficiency using excel and python
 Dataset link:
 The dataset is too large to upload directly here, so you can download and view it from OneDrive:
 https://waynestateprod-my.sharepoint.com/:x:/g/personal/ho9797_wayne_edu/EUl8IScNrNZJmojxnBvJ8uwBBMwby0dh_HTPhCGv-C33aA?e=sqJXQi
+
 # NBA Player Efficiency Analysis
-
-This project analyzes NBA players' efficiency based on their game performance.
-
-## Project Overview
-- Cleaned the dataset to exclude players with fewer than 20 games played.
-- Calculated efficiency scores using a custom formula:# NBA Player Efficiency Analysis
-
-This project analyzes NBA players' efficiency based on their game performance.
 
 ## Project Overview
 - Cleaned the dataset to exclude players with fewer than 20 games played.
